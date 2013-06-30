@@ -1,0 +1,11 @@
+---
+layout: post
+title: Doing the Twitter API Integration Math
+url: http://integration.apievangelist.com2012/06/05/doing-the-twitter-api-integration-math/
+source: http://integration.apievangelist.com2012/06/05/doing-the-twitter-api-integration-math/
+domain: integration.apievangelist.com2012
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-full-logo-black.png
+---
+{% include JB/setup %}<p>I’m expanding the API Evangelist network.I’ve recently taken down the API area of API Evangelist, and launching under the brand API stack. Then I’m formalizing some aspects of my API industry monitoring in two areas: API Ranking - I’ve developed a decent algorithm for ranking APIs, and I want to do it regularly, in real-time API Monitoring - Real-time monitoring and analysis of APIs their blogs, twitter accounts and Internet sentiment about APIs One aspect of this work is using Twitter to monitor and rank the API landscape with the following data points: APIs Twitter Accounts - Pull all the tweets in real-time for 900+ APIs I’m watching API @Mentions - Pull all the @mentions for APIs in real-time for the 900+ APIs I’m watching Industry Keyword Industry Monitoring - Monitor 80+ keywords I’m watching, pulling tweets searches for these Service Providers - Pull all the Tweets for an average of 5 Twitter accounts for each of 20 service providers, @mentions for those account plus keyword searches for their business name Hackathons - Pull Tweets for about an average of 50 hackathons per month, plus the hashtags for each of those events as well In short, I need to pull quite a few Tweets from quite a few different Twitter API searches and Twitter user accounts.The velocity (number of tweets sent) for each of these data points can vary.As some APIs are only Tweeting once or twice a week, while some are well.</p>
+<center><p><a href="http://integration.apievangelist.com2012/06/05/doing-the-twitter-api-integration-math/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
