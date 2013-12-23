@@ -6,6 +6,7 @@ source: https://whatspossible.johnsoncontrols.com/community/panoptix/apps/develo
 domain: whatspossible.johnsoncontrols.com
 image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
 ---
-{% include JB/setup %}<p>At last November’s launch, the Panoptix App Developer Program provided building and meter APIs.Earlier this year we added AHU and VAV APIs.In the near future we will announce the availability of a Utility Bill API.We will continue to expand the API set to meet the needs of our partners.This could be additional HVAC equipment, weather stations, or other entities involved in building efficiency.</p>
+
+<p>At last November’s launch, the Panoptix App Developer Program provided building and meter APIs.Earlier this year we added AHU and VAV APIs.In the near future we will announce the availability of a Utility Bill API.We will continue to expand the API set to meet the needs of our partners.This could be additional HVAC equipment, weather stations, or other entities involved in building efficiency.</p>
 <center><p><a href="https://whatspossible.johnsoncontrols.com/community/panoptix/apps/developer/blog/2013/03/08/what-apis-would-you-like-to-see-in-the-panoptix-app-developer-program#" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 
