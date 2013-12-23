@@ -1,12 +1,0 @@
----
-layout: post
-title: Building Energy Efficiency at Six Times the Speed : Greentech Media
-url: http://www.greentechmedia.com/articles/read/energy-efficiency-at-six-times-the-speed
-source: http://www.greentechmedia.com/articles/read/energy-efficiency-at-six-times-the-speed
-domain: www.greentechmedia.com
-image: 
----
-
-<p>Energy efficiency may be the cheapest way for utilities to reduce power demand, and thus avoid building expensive and polluting new power plants.But that doesn’t mean it’s easy to pick and pay for the projects that give them the most bang for the buck.In fact, all the work that goes into doing a commercial building energy retrofit, from the initial customer contact and energy audit and assessment to the design, funding and execution of a project, can serve as a significant bottleneck for utilities seeking to hand out billions of dollars in energy efficiency rebates, incentives, cost-sharing grants and other such efficiency-boosting funds.IT can help smooth that whole process, and unlock some pretty hefty acceleration to market as a result.Take FirstFuel, the Lexington, Mass.</p>
-<center><p><a href="http://www.greentechmedia.com/articles/read/energy-efficiency-at-six-times-the-speed" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
